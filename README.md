@@ -1,13 +1,14 @@
 # JS crawling
 
 <크롤러 시작>
+
 terminal창에서 
 
->yarn init
+yarn init
 
->enter
+enter
 
->yarn add puppeteer-core
+yarn add puppeteer-core
 
 
 -index.js 파일 생성
